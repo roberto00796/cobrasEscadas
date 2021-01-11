@@ -1,8 +1,6 @@
 class CobrasEscadas{
     
     constructor(){
-        this.jogador1 = 0;
-        this.jogador2 = 0;
         this.jogadorAtual = 1;
         this.fimJogo = false;
         this.jogadores = [0,0];
